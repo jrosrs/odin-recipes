@@ -1,0 +1,47 @@
+/* style.css */
+
+* {
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+h1 {
+    font-size: 50px;
+    background-color: black;
+    color: white;
+}
+
+h2 {
+    font-size: 32px;
+    background-color: black;
+    color: grey;
+}
+
+img {
+    height: 300px;
+    width: auto;
+}
+
+p {
+    background-color: rgb(199, 189, 189);
+    color: black;
+}
+
+ul {
+    background-color:aquamarine;
+    color:brown;
+}
+
+ol {
+    background-color: brown;
+    color: aquamarine;
+}
+strong {
+    color: black;
+    background-color: white;
+}
+
+em {
+    color: yellow;
+    background-color: red;
+}
+
